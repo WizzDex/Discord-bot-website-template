@@ -4,7 +4,7 @@ Amazing website with good UI design for new Discord bots, designed with Bootstra
 
 ![Screenshot](https://raw.githubusercontent.com/NourEldienHE/Discord-bot-website-template/master/Screenshot.png)
 
-## Getting Started
+## Getting On
 
 Download or fork the repo to get started!
 
